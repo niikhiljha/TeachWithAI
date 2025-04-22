@@ -1,4 +1,4 @@
-# Tutor.AI
+# TeachWithAI
 
 ## Project Overview
 Tutor.AI is a complete education platform focused on extending support to underprivileged school students. We leverage the power of Artificial Intelligence and connect students to their teachers on the app. We have a knowledge-tracing AI model, which provides students with questions that will help them improve their weaknesses and talk to a Gemini Pro-powered AI tutor who will help answer their queries.
